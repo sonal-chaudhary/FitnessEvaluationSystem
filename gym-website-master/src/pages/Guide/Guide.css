@@ -1,0 +1,21 @@
+.guide-container {
+  padding: 2rem;
+  background-color: black;
+  color: maroon;
+  font-family: sans-serif;
+}
+
+.feedback-box {
+  background: #1a1a1a;
+  padding: 1rem;
+  border-radius: 10px;
+  margin-top: 1rem;
+  color: white;
+}
+
+.webcam-feed {
+  width: 100%;
+  max-width: 500px;
+  border-radius: 10px;
+  margin-bottom: 1rem;
+}
