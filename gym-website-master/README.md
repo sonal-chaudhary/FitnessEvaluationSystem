@@ -46,20 +46,20 @@ concurrently – run server and client simultaneously
 bash
 Copy
 Edit
-# Clone the repository
+->Clone the repository
 git clone https://github.com/letnagao/gym-website.git
 
-# Navigate to project folder
+->Navigate to project folder
 cd gym-website
 
-# Install server dependencies
+-> Install server dependencies
 npm install
 
-# Install client dependencies
+-> Install client dependencies
 cd client
 npm install
 
-# Run both client and server
+-> Run both client and server
 npm run dev
 Available Scripts
 bash
